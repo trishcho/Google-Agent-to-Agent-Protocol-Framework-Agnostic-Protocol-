@@ -1,7 +1,7 @@
 # A2A SDK Demo Projects
 This repository contains example projects demonstrating the capabilities of the Agent-to-Agent (A2A) SDK. Each sub-directory is a self-contained project with its own dependencies and instructions.
 
-<img width="479" height="293" alt="Image" src="https://github.com/user-attachments/assets/9f02625b-aaca-43db-a2e4-37e4e8ce048f" />
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/c47c9c42-e47f-44cc-b884-7fe3a74ead06" />
 
 ## Projects
 
